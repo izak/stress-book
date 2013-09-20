@@ -10,11 +10,13 @@
   </metadata>
   <manifest>
     <item href="toc.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
-    <item href="1.html" id="item1" media-type="application/xhtml+xml"/>
-    <item href="2.html" id="item2" media-type="application/xhtml+xml"/>
+    <item href="open.xhtml" id="item1" media-type="application/xhtml+xml"/>
+    <item href="lotsomath.xhtml" id="item2" media-type="application/xhtml+xml"/>
+    <item href="2.html" id="item3" media-type="application/xhtml+xml"/>
   </manifest>
   <spine>
     <itemref idref="item1" linear="yes"/>
     <itemref idref="item2" linear="yes"/>
+    <itemref idref="item3" linear="yes"/>
   </spine>
 </package>
