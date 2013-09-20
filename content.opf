@@ -12,11 +12,66 @@
     <item href="toc.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="open.xhtml" id="item1" media-type="application/xhtml+xml"/>
     <item href="lotsomath.xhtml" id="item2" media-type="application/xhtml+xml"/>
-    <item href="2.html" id="item3" media-type="application/xhtml+xml"/>
+    <item href="lotsoimages.xhtml" id="item3" media-type="application/xhtml+xml"/>
+    <item href="2.xhtml" id="item4" media-type="application/xhtml+xml"/>
+    <item href="images/1280px-F-20_firing_a_missile.jpg" id="1280px-F-20_firing_a_missile.jpg" media-type="image/jpeg"/>
+    <item href="images/17079bc65c87b67e9fdf690a5d6207b6.png" id="17079bc65c87b67e9fdf690a5d6207b6.png" media-type="image/png"/>
+    <item href="images/22fc76cacd509ed0bf473895bec9a411.png" id="22fc76cacd509ed0bf473895bec9a411.png" media-type="image/png"/>
+    <item href="images/36ba369abb41c6d44b9232661685a516.png" id="36ba369abb41c6d44b9232661685a516.png" media-type="image/png"/>
+    <item href="images/4c0184a62a374369122d7f0c23eacad5.png" id="4c0184a62a374369122d7f0c23eacad5.png" media-type="image/png"/>
+    <item href="images/4fc458f08d5cb24b4ce7db6539551e97.png" id="4fc458f08d5cb24b4ce7db6539551e97.png" media-type="image/png"/>
+    <item href="images/5568a63103a0e436b67859952b0ea136.png" id="5568a63103a0e436b67859952b0ea136.png" media-type="image/png"/>
+    <item href="images/5d0c6976097a87c1b5896571aad3aa79.png" id="5d0c6976097a87c1b5896571aad3aa79.png" media-type="image/png"/>
+    <item href="images/a5cd8fb70cbc86d7fef805a3a6d22343.png" id="a5cd8fb70cbc86d7fef805a3a6d22343.png" media-type="image/png"/>
+    <item href="images/aab06bbab7112cb5720b107530014a23.png" id="aab06bbab7112cb5720b107530014a23.png" media-type="image/png"/>
+    <item href="images/afaf1fa257b327d78b28f7a21a08d1d0.png" id="afaf1fa257b327d78b28f7a21a08d1d0.png" media-type="image/png"/>
+    <item href="images/b22fa47bb68d7a31e6d545867fd77f23.png" id="b22fa47bb68d7a31e6d545867fd77f23.png" media-type="image/png"/>
+    <item href="images/ca0ae6e3cd7dcffc379890f5dca44b0a.png" id="ca0ae6e3cd7dcffc379890f5dca44b0a.png" media-type="image/png"/>
+    <item href="images/eea38e77d9766cd5be5867dddd03cad4.png" id="eea38e77d9766cd5be5867dddd03cad4.png" media-type="image/png"/>
+    <item href="images/photo_electric_apparatus.png" id="photo_electric_apparatus.png" media-type="image/png"/>
+    <item href="images/f55f021eb91fc828f4ada557c1b66f97.png" id="f55f021eb91fc828f4ada557c1b66f97.png" media-type="image/png"/>
+    <item href="images/ambulance_extranoise_flickr.jpg" id="ambulance_extranoise_flickr.jpg" media-type="image/jpeg"/>
+    <item href="images/BasketBall-by-SauMag-on-Flickr-8270038026_c0b9f653d5_o.jpg" id="BasketBall-by-SauMag-on-Flickr-8270038026_c0b9f653d5_o.jpg" media-type="image/jpeg"/>
+    <item href="images/BenchPress-by-ABlight-on-Flickr-4411752843_007003fbb7_o.jpg" id="BenchPress-by-ABlight-on-Flickr-4411752843_007003fbb7_o.jpg" media-type="image/jpeg"/>
+    <item href="images/Bowler-by-gareth1953-on-Flickr-5858562848_02ab046a55_o.jpg" id="Bowler-by-gareth1953-on-Flickr-5858562848_02ab046a55_o.jpg" media-type="image/jpeg"/>
+    <item href="images/5ICA.jpg" id="5ICA.jpg" media-type="image/jpeg"/>
+    <item href="images/Car-by-Moyan-Brenn-on-Flickr-5952275132_9c214f99ec_o.jpg" id="Car-by-Moyan-Brenn-on-Flickr-5952275132_9c214f99ec_o.jpg" media-type="image/jpeg"/>
+    <item href="images/CarryWeight-by-Greencolander-on-Flickr-2542090538_1a327e305b_o.jpg" id="CarryWeight-by-Greencolander-on-Flickr-2542090538_1a327e305b_o.jpg" media-type="image/jpeg"/>
+    <item href="images/Cricketer-by-TTGE-on-Flickr-4758998578_20584b5685_o.jpg" id="Cricketer-by-TTGE-on-Flickr-4758998578_20584b5685_o.jpg" media-type="image/jpeg"/>
+    <item href="images/Falconry-by-foxypar4-on-Flickr-414755713_4f260ee365_o.jpg" id="Falconry-by-foxypar4-on-Flickr-414755713_4f260ee365_o.jpg" media-type="image/jpeg"/>
+    <item href="images/galactic_expansion.jpg" id="galactic_expansion.jpg" media-type="image/jpeg"/>
+    <item href="images/Gr12_Doppler_01.jpg" id="Gr12_Doppler_01.jpg" media-type="image/jpeg"/>
+    <item href="images/Gr12_Doppler_02.jpg" id="Gr12_Doppler_02.jpg" media-type="image/jpeg"/>
+    <item href="images/Gr12_Doppler_03-A.jpg" id="Gr12_Doppler_03-A.jpg" media-type="image/jpeg"/>
+    <item href="images/Gr12_Doppler_03-B.jpg" id="Gr12_Doppler_03-B.jpg" media-type="image/jpeg"/>
+    <item href="images/Gr12_Doppler_03.jpg" id="Gr12_Doppler_03.jpg" media-type="image/jpeg"/>
+    <item href="images/HotAirBalloon-by-CarolynConner-on-Flickr-4267826080_5a0d73b3b7_o-cropped.jpg" id="HotAirBalloon-by-CarolynConner-on-Flickr-4267826080_5a0d73b3b7_o-cropped.jpg" media-type="image/jpeg"/>
+    <item href="images/InternalResistance-AReynolds.jpg" id="InternalResistance-AReynolds.jpg" media-type="image/jpeg"/>
+    <item href="images/Moon-by-Mark-Winterbourne-on-Flickr-6066305557_780128a95d_o-cropped.jpg" id="Moon-by-Mark-Winterbourne-on-Flickr-6066305557_780128a95d_o-cropped.jpg" media-type="image/jpeg"/>
+    <item href="images/Mosquito-by-John-Tran-on-Flickr-8143929538_b7d3e4406c_o-cropped.jpg" id="Mosquito-by-John-Tran-on-Flickr-8143929538_b7d3e4406c_o-cropped.jpg" media-type="image/jpeg"/>
+    <item href="images/Motorbike-by-Natesh-Ramasamy-on-Flickr-7346123072_85a510e237_k.jpg" id="Motorbike-by-Natesh-Ramasamy-on-Flickr-7346123072_85a510e237_k.jpg" media-type="image/jpeg"/>
+    <item href="images/ParOrSer1-AReynolds.jpg" id="ParOrSer1-AReynolds.jpg" media-type="image/jpeg"/>
+    <item href="images/ParOrSer2-AReynolds.jpg" id="ParOrSer2-AReynolds.jpg" media-type="image/jpeg"/>
+    <item href="images/ParOrSer3-AReynolds.jpg" id="ParOrSer3-AReynolds.jpg" media-type="image/jpeg"/>
+    <item href="images/ParOrSer4-AReynolds.jpg" id="ParOrSer4-AReynolds.jpg" media-type="image/jpeg"/>
+    <item href="images/PoolBalls-by-WillFolsom-on-Flickr-5127727938_6bbfb8bb8f_b.jpg" id="PoolBalls-by-WillFolsom-on-Flickr-5127727938_6bbfb8bb8f_b.jpg" media-type="image/jpeg"/>
+    <item href="images/RedBall-by-chubstock-on-Flickr-3066889476_c9ae0edd33_o.jpg" id="RedBall-by-chubstock-on-Flickr-3066889476_c9ae0edd33_o.jpg" media-type="image/jpeg"/>
+    <item href="images/SoccerLadyKicking-by-KM_Klemencic-on-Flickr-7892058384_0892ae36c9_k.jpg" id="SoccerLadyKicking-by-KM_Klemencic-on-Flickr-7892058384_0892ae36c9_k.jpg" media-type="image/jpeg"/>
+    <item href="images/solar-panels-ell-r-brown-flickr.jpg" id="solar-panels-ell-r-brown-flickr.jpg" media-type="image/jpeg"/>
+    <item href="images/SquashCourt-by-MisterIan-on-Flickr-4084230081_700410d2e9_o.jpg" id="SquashCourt-by-MisterIan-on-Flickr-4084230081_700410d2e9_o.jpg" media-type="image/jpeg"/>
+    <item href="images/TennisBallNet-by-swampa-on-Flickr-4308348195_ab53ed1b31_o.jpg" id="TennisBallNet-by-swampa-on-Flickr-4308348195_ab53ed1b31_o.jpg" media-type="image/jpeg"/>
+    <item href="images/Truck-by-David-Guos-Master-on-Flickr-7553870574_1fbf12ca69_o.jpg" id="Truck-by-David-Guos-Master-on-Flickr-7553870574_1fbf12ca69_o.jpg" media-type="image/jpeg"/>
+    <item href="images/VertMot-AReynolds-1.jpg" id="VertMot-AReynolds-1.jpg" media-type="image/jpeg"/>
+    <item href="images/VertMot-AReynolds-2.jpg" id="VertMot-AReynolds-2.jpg" media-type="image/jpeg"/>
+    <item href="images/WEPCarwithfriction.jpg" id="WEPCarwithfriction.jpg" media-type="image/jpeg"/>
+    <item href="images/WEPThebusybraincar300Nforcebackward.jpg" id="WEPThebusybraincar300Nforcebackward.jpg" media-type="image/jpeg"/>
+    <item href="images/WEPThebusybraincar500Nforceforward.jpg" id="WEPThebusybraincar500Nforceforward.jpg" media-type="image/jpeg"/>
+    <item href="images/WEPThebusybraincarfrictionandapplied.jpg" id="WEPThebusybraincarfrictionandapplied.jpg" media-type="image/jpeg"/>
   </manifest>
   <spine>
     <itemref idref="item1" linear="yes"/>
     <itemref idref="item2" linear="yes"/>
     <itemref idref="item3" linear="yes"/>
+    <itemref idref="item4" linear="yes"/>
   </spine>
 </package>
