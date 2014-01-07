@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-
-<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+<?xml version="1.0" encoding="UTF-8"?><package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
   <metadata>
     <dc:rights>Public domain</dc:rights>
     <dc:creator opf:file-as="Burger, Izak">Izak Burger</dc:creator>
@@ -68,10 +66,5 @@
     <item href="images/WEPThebusybraincar500Nforceforward.jpg" id="WEPThebusybraincar500Nforceforward.jpg" media-type="image/jpeg"/>
     <item href="images/WEPThebusybraincarfrictionandapplied.jpg" id="WEPThebusybraincarfrictionandapplied.jpg" media-type="image/jpeg"/>
   </manifest>
-  <spine>
-    <itemref idref="item1" linear="yes"/>
-    <itemref idref="item2" linear="yes"/>
-    <itemref idref="item3" linear="yes"/>
-    <itemref idref="item4" linear="yes"/>
-  </spine>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="open.xhtml"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="lotsomath.xhtml"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="lotsoimages.xhtml"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="2.xhtml"></itemref></spine>
 </package>
